@@ -9,6 +9,6 @@ async def start(client, message):
         [InlineKeyboardButton(
             "⭕️ Report Bugs 😊 ⭕️", url="https://t.me/VKPBOTS")]
     ])
-    welcomed = f"Hey <b>{message.from_user.first_name}</b>\n**I'm A POWERFULL YOUTUBE DOWNLOADER Bot💯**\n\n**Please send me any YOUTUBE link,**\n\n**I can upload it to telegram as File/Video**\n\n**Click help for more details....**\n\n**You must subscribe our channel in order to use me😇**"
+    welcomed = f"*Hey <b>{message.from_user.first_name}</b>\n*I'm A POWERFULL YOUTUBE DOWNLOADER Bot💯*\n\n*Please send me any YOUTUBE link,*\n\n*I can upload it to telegram as File/Video*\n\n*Click help for more detailS..*\n\n*You must subscribe our channel in order to use me😇*"
     await message.reply_text(welcomed, reply_markup=joinButton)
     raise StopPropagation
