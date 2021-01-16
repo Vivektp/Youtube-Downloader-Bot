@@ -11,7 +11,9 @@
     - Change configuration config.py  File
     - install dependencies
     - python3 -m bot
-    
+  
+
+## Special And Big Thanks To [aryan Vikash](t.me/AryanVIkash) For His Repo😘  
 ## Thanks ❤️
 * [Spechide](https://telegram.dog/SpEcHIDe) for his [AnyDlBot](https://github.com/SpEcHiDe/AnyDLBot)
 * [HasibulKabir](https://telegram.dog/HasibulKabir)
